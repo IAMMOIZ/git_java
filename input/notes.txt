@@ -1,0 +1,19 @@
+A=> for getting input we have to create a object of Scanner class which is exist in java.util.Scanner; package.
+
+B=>next() method is used to take only a single word.
+
+c=>nextLine() method is used to get a paragraph.
+
+d=>nextInt() method is used to get a Integer data.
+
+e=>nextLong() method is used to get a Long data.
+
+f=>nextShort() method is used to get a Short data.
+
+g=>nextByte() method is used to get a Byte data.
+
+h=>nextFloat() method is used to get a Float data.
+
+i=>nextDouble() method is used to get a Double data.
+
+j=>nextChar() method is used to get a single character data.
