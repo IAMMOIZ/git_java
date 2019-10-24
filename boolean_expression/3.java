@@ -1,4 +1,4 @@
-//use of negation sign
+//use of negation sign 
 class A
 {
 public static void main(String gg[])
